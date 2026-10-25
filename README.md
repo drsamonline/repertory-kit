@@ -2,7 +2,7 @@
 
 [![live](https://img.shields.io/badge/live-online-22c55e)](https://drsamonline.github.io/repertory-kit/)
 [![test](https://github.com/drsamonline/repertory-kit/actions/workflows/test.yml/badge.svg)](https://github.com/drsamonline/repertory-kit/actions/workflows/test.yml)
-[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![license](https://img.shields.io/badge/license-PolyForm Noncommercial-blue)](LICENSE)
 
 **The homeopathic repertorisation core.** Zero dependencies. One file. Rubric grading (1/2/3) and grade-weighted remedy scoring — the shared logic
 extracted from the drsamonline apps that repeat it.
